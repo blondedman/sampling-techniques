@@ -1,4 +1,4 @@
-#  Fraud Detection - Sampling Techniques on Credit Cards
+#  Sampling Techniques on Credit Cards
 a comprehensive machine learning project comparing different sampling techniques for credit card fraud detection using imbalanced dataset.
 
 ## PROJECT OVERVIEW
@@ -27,6 +27,6 @@ for each sampling technique, the notebook provides:
 
 
 ## REFERENCES
-- [scikit-learn Documentation](https://scikit-learn.org/)
-- [imbalanced-learn Documentation](https://imbalanced-learn.org/)
-- [Sampling Techniques in Machine Learning](https://en.wikipedia.org/wiki/Sampling_(statistics))
+- [scikit-learn documentation](https://scikit-learn.org/)
+- [imbalanced-learn documentation](https://imbalanced-learn.org/)
+- [sampling techniques in machine learning](https://en.wikipedia.org/wiki/Sampling_(statistics))
